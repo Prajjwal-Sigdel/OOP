@@ -61,6 +61,7 @@ public class input {
             default:
                 break;
         }
+        scn.close();
     }
 
     // nextBoolean()
